@@ -12,7 +12,7 @@
 # RootModule = ''
 
 # Version number of this module.
-ModuleVersion = '2.10.3'
+ModuleVersion = '2.10.4'
 
 # Supported PSEditions
 CompatiblePSEditions = 'Core', 'Desktop'
@@ -146,7 +146,7 @@ PrivateData = @{
         # IconUri = ''
 
         # ReleaseNotes of this module
-        ReleaseNotes = '* Updated ''Get-AzSubscription'' to retrieve subscription by Id rather than listed all the subscriptions from server if subscription Id is provided. [#19115]'
+        ReleaseNotes = '* Test package for AzKeyStore.'
 
         # Prerelease string of this module
         # Prerelease = ''
