@@ -317,7 +317,7 @@ Disabled
 
 The command creates account with disable PublicNetworkAccess of the account.
 
-### Example 15: Create account with account level  mmutability policy
+### Example 15: Create account with account level immutability policy
 <!-- Skip: Output cannot be splitted from code -->
 
 
