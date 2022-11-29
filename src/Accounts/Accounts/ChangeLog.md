@@ -19,6 +19,8 @@
 -->
 
 ## Upcoming Release
+
+## Version 2.10.4
 * Enabled caching tokens when logging in with a service principal or client assertion. [#20013]
     - This could reduce extra network traffic and improve performance.
     - It also fixed the incorrectly short lifespan of tokens.
